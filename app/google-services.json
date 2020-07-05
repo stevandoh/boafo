@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337599655406",
+    "firebase_url": "https://boafo-11144.firebaseio.com",
+    "project_id": "boafo-11144",
+    "storage_bucket": "boafo-11144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337599655406:android:7d14bb66d8916add",
+        "android_client_info": {
+          "package_name": "com.origgin.boafo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337599655406-ch9179mcv9101st45refglo67apd6r7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.origgin.boafo",
+            "certificate_hash": "b75ad7438d2cd283960b4ebc717f2d05501daacf"
+          }
+        },
+        {
+          "client_id": "337599655406-f56ggs0lvib80nabci57r2hbm20a0hn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQd1YEcX891p1J9SGRsoOoyhKZGCioQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337599655406-f56ggs0lvib80nabci57r2hbm20a0hn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

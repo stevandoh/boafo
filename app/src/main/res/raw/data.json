@@ -1,0 +1,1283 @@
+[
+  {
+    "id": 1,
+    "name": "Francis Amu",
+    "occupation": "Mechanic",
+    "specialization": "",
+    "company": "Star Motors ",
+    "location": "",
+    "experience": "10years",
+    "phone": "0245814389"
+  },
+  {
+    "id": 2,
+    "name": "Samuel Tuga",
+    "occupation": "Mechanic",
+    "specialization": "Generalized",
+    "company": "Star Motors",
+    "location": "Atraco - UPS, Ayele (Madina)",
+    "experience": "20years ",
+    "phone": "0272189019"
+  },
+  {
+    "id": 3,
+    "name": "Samuel Adjei",
+    "occupation": "Mechanic",
+    "specialization": "Japan and German Cars",
+    "company": "A4 Motors",
+    "location": "UPS - Madina",
+    "experience": "9years",
+    "phone": "0277180007"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Owusu",
+    "occupation": "Mechanic",
+    "specialization": "General Engineering",
+    "company": "Ajasco - Auto Service",
+    "location": "Ayele Down - Madina",
+    "experience": "6years",
+    "phone": "0544075498"
+  },
+  {
+    "id": 5,
+    "name": "Kojo Opoku",
+    "occupation": "Aircondition Installer",
+    "specialization": "Air condition Installations",
+    "company": "",
+    "location": "UPS - Ayele, Madina",
+    "experience": "20years",
+    "phone": "0249211066"
+  },
+  {
+    "id": 6,
+    "name": "Evu Atsu",
+    "occupation": "Tiler",
+    "specialization": "General Tiling services",
+    "company": "",
+    "location": "Agbogba",
+    "experience": "11years",
+    "phone": "0262870723"
+  },
+  {
+    "id": 7,
+    "name": "Monash Apele",
+    "occupation": "Tiler",
+    "specialization": "General Tiling Services",
+    "company": "",
+    "location": "Ablekuma",
+    "experience": "10years",
+    "phone": "0276656600"
+  },
+  {
+    "id": 8,
+    "name": "David Amatowudu ",
+    "occupation": "Painter",
+    "specialization": "General Painting Services",
+    "company": "",
+    "location": "Madina Estate",
+    "experience": "12years",
+    "phone": "0243823595"
+  },
+  {
+    "id": 9,
+    "name": "Kwame Lartey",
+    "occupation": "Welder",
+    "specialization": "General Welding services",
+    "company": "",
+    "location": "Marina Estate",
+    "experience": "3years",
+    "phone": "0277215058"
+  },
+  {
+    "id": 10,
+    "name": "Felix Lanyoh ",
+    "occupation": "Electrician",
+    "specialization": "Auto Electricals",
+    "company": "",
+    "location": "Ups - Madina",
+    "experience": "10years",
+    "phone": "0546752816"
+  },
+  {
+    "id": 11,
+    "name": "KWEKU Agbaweto ",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Atraco- Madina",
+    "experience": "7years",
+    "phone": "0248129020"
+  },
+  {
+    "id": 12,
+    "name": "William Achaempong",
+    "occupation": "Carpenter",
+    "specialization": "General Furnitry & Carpentry services ",
+    "company": "Home Worthy Furniture",
+    "location": "Madina Estate",
+    "experience": "7years",
+    "phone": "0556441087"
+  },
+  {
+    "id": 13,
+    "name": "Kofi Abbey",
+    "occupation": "Machine Operators",
+    "specialization": "Generators, Concrete Mixers etc",
+    "company": "",
+    "location": "East Legon(Islamic University Down )",
+    "experience": "3years",
+    "phone": "0545663293"
+  },
+  {
+    "id": 14,
+    "name": "Kojo Sena",
+    "occupation": "Painter",
+    "specialization": "General Painting ",
+    "company": "",
+    "location": "Ogbojo - East legon",
+    "experience": "3years",
+    "phone": "0240560407"
+  },
+  {
+    "id": 15,
+    "name": "Samuel Bonney",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Mpeasem - East Legon",
+    "experience": "8years",
+    "phone": "0548996591"
+  },
+  {
+    "id": 16,
+    "name": "Edmund Dorkenoo",
+    "occupation": "Electrician",
+    "specialization": "Auto electrical ",
+    "company": "",
+    "location": "Atraco - UPS, Madina ",
+    "experience": "10years",
+    "phone": "0266452488/0244417272"
+  },
+  {
+    "id": 17,
+    "name": "Emmanuel Williams",
+    "occupation": "Mechanic",
+    "specialization": "Japan and Korea Vehicles ",
+    "company": "",
+    "location": "Madina Estate ",
+    "experience": "2years",
+    "phone": "0246883515"
+  },
+  {
+    "id": 18,
+    "name": "Samuel Anum ",
+    "occupation": "Electrician",
+    "specialization": "Installations, Wiring and Maintainance ",
+    "company": "",
+    "location": "Osu – Post office",
+    "experience": "13 years",
+    "phone": "0541161238/0266206527"
+  },
+  {
+    "id": 19,
+    "name": "Akwesi Mawuli ",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Kumasi",
+    "experience": "33years",
+    "phone": "0247072628"
+  },
+  {
+    "id": 20,
+    "name": "Gabriel Asokobome ",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Kumasi",
+    "experience": "10years ",
+    "phone": "0246970557"
+  },
+  {
+    "id": 21,
+    "name": "Sam Peny ",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Kumasi",
+    "experience": "5years",
+    "phone": "0240433251"
+  },
+  {
+    "id": 22,
+    "name": "Joel Ansah ",
+    "occupation": "Plumber",
+    "specialization": "General Plumbing services ",
+    "company": "",
+    "location": "North Kaneshie ",
+    "experience": "6years",
+    "phone": "0542835909"
+  },
+  {
+    "id": 23,
+    "name": "Jephter Okyere ",
+    "occupation": "Plumber",
+    "specialization": "General plumbing",
+    "company": "",
+    "location": "Hatso ",
+    "experience": "6years ",
+    "phone": "0245324012"
+  },
+  {
+    "id": 24,
+    "name": "Enoch Wajoli ",
+    "occupation": "Construction",
+    "specialization": "Japan Korea vehicles",
+    "company": "",
+    "location": "Atraco -Madina",
+    "experience": "4years",
+    "phone": "0248603382"
+  },
+  {
+    "id": 25,
+    "name": "Derrick Yevu ",
+    "occupation": "POP Designer",
+    "specialization": "P.O.P Design Services ",
+    "company": "",
+    "location": "Madina ",
+    "experience": "4years",
+    "phone": "0247614295"
+  },
+  {
+    "id": 26,
+    "name": "Isaac Eshun ",
+    "occupation": "Mechanic",
+    "specialization": "German, Japan & Korea Cars ",
+    "company": "",
+    "location": "Madina - UPS",
+    "experience": "5years",
+    "phone": "0543509135"
+  },
+  {
+    "id": 27,
+    "name": "George Wornyo ",
+    "occupation": "Electrician",
+    "specialization": "Installations , wiring, Maintainance ",
+    "company": "",
+    "location": "Labadi - Accra",
+    "experience": "10years",
+    "phone": "0249913554"
+  },
+  {
+    "id": 28,
+    "name": "Frank Asare ",
+    "occupation": "Tiler",
+    "specialization": "General Tiling services",
+    "company": "",
+    "location": "Dome - Accra",
+    "experience": "15years ",
+    "phone": "0541787170"
+  },
+  {
+    "id": 29,
+    "name": "Constant Agbezorahlor ",
+    "occupation": "Carpenter",
+    "specialization": "",
+    "company": "",
+    "location": "Madina New Road",
+    "experience": "30years",
+    "phone": "0242870792"
+  },
+  {
+    "id": 30,
+    "name": "Manesse Adu",
+    "occupation": "Mechanic",
+    "specialization": "Auto Engineering ",
+    "company": "",
+    "location": "Adenta - Filling Station",
+    "experience": "20years",
+    "phone": "0273540740"
+  },
+  {
+    "id": 31,
+    "name": "Moses Tetteh ",
+    "occupation": "Welder",
+    "specialization": "General Metal work services",
+    "company": "",
+    "location": "Adenta - Diodonne",
+    "experience": "16years",
+    "phone": "0244668695"
+  },
+  {
+    "id": 32,
+    "name": "Eric Tetteh ",
+    "occupation": "Mechanic",
+    "specialization": "Japan Cars",
+    "company": "Jericho Motors",
+    "location": "Adenta West ",
+    "experience": "14years",
+    "phone": "0246465984"
+  },
+  {
+    "id": 33,
+    "name": "Richard Gadenkyina ",
+    "occupation": "Mechanic",
+    "specialization": "General Auto Eng. ",
+    "company": "Krachi Benz Automobile ",
+    "location": "Adenta ",
+    "experience": "10years ",
+    "phone": "0277745757/0244565932"
+  },
+  {
+    "id": 34,
+    "name": "Oscar kubuafor",
+    "occupation": "Carpenter",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Adenta",
+    "experience": "8years",
+    "phone": "0249705182"
+  },
+  {
+    "id": 35,
+    "name": "Solomon   darko",
+    "occupation": "Sprayer",
+    "specialization": "Car sprayer",
+    "company": "",
+    "location": "Agbogba asemblies",
+    "experience": "15years",
+    "phone": "0570427908/0265659635"
+  },
+  {
+    "id": 36,
+    "name": "Bass Abdul Samad",
+    "occupation": "Metal Fabricator",
+    "specialization": "General Metal Fabrication",
+    "company": "Bass Abdul Aluminium Fabrications",
+    "location": "Nmai - Djor",
+    "experience": "7years",
+    "phone": "0548230309"
+  },
+  {
+    "id": 37,
+    "name": "Tanko Issa ",
+    "occupation": "Metal Fabricator",
+    "specialization": "Welding ",
+    "company": "Tank Metal Works",
+    "location": "Nmai - Djor",
+    "experience": "8years",
+    "phone": "0273039043"
+  },
+  {
+    "id": 38,
+    "name": "Joe Ohene Jay ",
+    "occupation": "Metal Fabricator",
+    "specialization": "Welding",
+    "company": "",
+    "location": "Nmai Djor",
+    "experience": "6years",
+    "phone": "0241554598"
+  },
+  {
+    "id": 39,
+    "name": "Patrick Omanie ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Fabrication ",
+    "company": "Glass City",
+    "location": "Nmai Djor ",
+    "experience": "6years",
+    "phone": "0275726311/02681646824"
+  },
+  {
+    "id": 40,
+    "name": "Hi Tech Electricals ",
+    "occupation": "Electrician",
+    "specialization": "Household Wiring, Gen Repairs",
+    "company": "",
+    "location": "Nmai Djor ",
+    "experience": "9years ",
+    "phone": "0242926993/0270926993"
+  },
+  {
+    "id": 41,
+    "name": "Maxwell Agbenu ",
+    "occupation": "Carpenter",
+    "specialization": "Gen. Carpentry and Furniture works ",
+    "company": "Max Furniture System",
+    "location": "Nmai Djor ",
+    "experience": "8years ",
+    "phone": "0502208213/0245291643"
+  },
+  {
+    "id": 42,
+    "name": "Richard Dzaka",
+    "occupation": "Electrician",
+    "specialization": "Household wiring, microwave repairs, fans,iron,pumping machines and dryers repairs.",
+    "company": "Uncle Rich Electricals",
+    "location": "Nmai Djor",
+    "experience": "15years",
+    "phone": "0246939356/0272780295"
+  },
+  {
+    "id": 43,
+    "name": "K.boafo",
+    "occupation": "Plumber",
+    "specialization": "General",
+    "company": "",
+    "location": "Agbogba assemblis",
+    "experience": "6years",
+    "phone": "0244269447"
+  },
+  {
+    "id": 44,
+    "name": "Nana",
+    "occupation": "Architectural Drawing",
+    "specialization": "",
+    "company": "",
+    "location": "Fitting shop",
+    "experience": "7years",
+    "phone": "0241599711"
+  },
+  {
+    "id": 45,
+    "name": "Paul kofi anann",
+    "occupation": "Carpenter",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Agbogba",
+    "experience": "10years",
+    "phone": "0271623262"
+  },
+  {
+    "id": 46,
+    "name": "Stephen Amedorme",
+    "occupation": "Mechanic",
+    "specialization": "Fitting",
+    "company": "",
+    "location": "Akasti Abhor",
+    "experience": "8years",
+    "phone": "0274895934"
+  },
+  {
+    "id": 47,
+    "name": "Agbey",
+    "occupation": "Carpenter",
+    "specialization": "Roofing work",
+    "company": "",
+    "location": "Akatsi Abhor",
+    "experience": "6years",
+    "phone": "0244633679"
+  },
+  {
+    "id": 48,
+    "name": "The best way furniture works",
+    "occupation": "Carpenter",
+    "specialization": "Furniture construction",
+    "company": "",
+    "location": "West Adenta Sakora",
+    "experience": "10years",
+    "phone": "0243824291"
+  },
+  {
+    "id": 49,
+    "name": "Richard",
+    "occupation": "POP Designer",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman Estate",
+    "experience": "5years",
+    "phone": "0242758632"
+  },
+  {
+    "id": 50,
+    "name": "U G  Kwa",
+    "occupation": "Mechanic",
+    "specialization": "Welder",
+    "company": "",
+    "location": "Ablagyie",
+    "experience": "5years",
+    "phone": "0246578182"
+  },
+  {
+    "id": 51,
+    "name": "Solomon Kutor",
+    "occupation": "Steel  bender",
+    "specialization": "",
+    "company": "",
+    "location": "Abokobi",
+    "experience": "6years",
+    "phone": "0541820734"
+  },
+  {
+    "id": 52,
+    "name": "Abubakah Sedik",
+    "occupation": "Electrician",
+    "specialization": "General",
+    "company": "",
+    "location": "Lapaz",
+    "experience": "15years",
+    "phone": "0234040031"
+  },
+  {
+    "id": 53,
+    "name": "James K  Nkansah",
+    "occupation": "Welder",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman",
+    "experience": "20years",
+    "phone": "0244209689"
+  },
+  {
+    "id": 54,
+    "name": "K Collins",
+    "occupation": "Architectural Drawing",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman",
+    "experience": "7years",
+    "phone": "0543710543"
+  },
+  {
+    "id": 55,
+    "name": "Solomon Odoi",
+    "occupation": "Carpenter",
+    "specialization": "Furniture and Roofing",
+    "company": "",
+    "location": "Ablagyie",
+    "experience": "10years",
+    "phone": "0245341054"
+  },
+  {
+    "id": 56,
+    "name": "Opha N Furniture",
+    "occupation": "Carpenter",
+    "specialization": "Furniture and construction",
+    "company": "",
+    "location": "Old Ashongman Aloway",
+    "experience": "8years",
+    "phone": "0249861689/0277261689"
+  },
+  {
+    "id": 57,
+    "name": "Shining Star Motors",
+    "occupation": "Mechanic",
+    "specialization": "Car Air  condition and others",
+    "company": "",
+    "location": "Haatso Opposite Barcalys bank",
+    "experience": "8years",
+    "phone": "0266258044/0208465373"
+  },
+  {
+    "id": 58,
+    "name": "Hayford Aluminium System",
+    "occupation": "Glass Fabricator",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman",
+    "experience": "6years",
+    "phone": "0244387162"
+  },
+  {
+    "id": 59,
+    "name": "Christopher Sunu",
+    "occupation": "Carpenter",
+    "specialization": "construction",
+    "company": "",
+    "location": "Ablagyie",
+    "experience": "22years",
+    "phone": "0242828130"
+  },
+  {
+    "id": 60,
+    "name": "Manasseh Bribi",
+    "occupation": "Plumber",
+    "specialization": "General",
+    "company": "",
+    "location": "Ablagyie",
+    "experience": "13years",
+    "phone": "0276179010"
+  },
+  {
+    "id": 61,
+    "name": "Eddico Home Design",
+    "occupation": "Architectural Drawing",
+    "specialization": "",
+    "company": "",
+    "location": "",
+    "experience": "8years",
+    "phone": "0244164828/0266249492/0277140632"
+  },
+  {
+    "id": 62,
+    "name": "Awal Mohammed",
+    "occupation": "Electrician",
+    "specialization": "General",
+    "company": "",
+    "location": "Lapaz",
+    "experience": "17years",
+    "phone": "0208705090"
+  },
+  {
+    "id": 63,
+    "name": "Peter  Kwesi Otoo",
+    "occupation": "Mason",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Ablagyie",
+    "experience": ",30years",
+    "phone": "0574337033"
+  },
+  {
+    "id": 64,
+    "name": "Paul Kwa",
+    "occupation": "Plumber",
+    "specialization": "General",
+    "company": "",
+    "location": "Spintex",
+    "experience": "10years",
+    "phone": "0503862221"
+  },
+  {
+    "id": 65,
+    "name": "Me-cdems construction",
+    "occupation": "Construction",
+    "specialization": "General",
+    "company": "",
+    "location": "Ashongman Estate",
+    "experience": "18years",
+    "phone": "0504025771/0545966528/0571549295"
+  },
+  {
+    "id": 66,
+    "name": "Kwadjo Asamoah",
+    "occupation": "Mason",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Ashongmany",
+    "experience": "20years",
+    "phone": "0243198704/0264975365"
+  },
+  {
+    "id": 67,
+    "name": "Atto Michael Quarshie ",
+    "occupation": "Carpenter",
+    "specialization": "",
+    "company": "",
+    "location": "Medie ",
+    "experience": "21years",
+    "phone": "0553881745/0260844780"
+  },
+  {
+    "id": 68,
+    "name": "Semanu Ernest ",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Medie ",
+    "experience": "6years",
+    "phone": "0244851337/0260743725"
+  },
+  {
+    "id": 69,
+    "name": "Abdul Latif ",
+    "occupation": "Plumber",
+    "specialization": "General Plumbing services ",
+    "company": "",
+    "location": "Haatso ",
+    "experience": "3years",
+    "phone": "0555639995"
+  },
+  {
+    "id": 70,
+    "name": "Agbalenyo Francis ",
+    "occupation": "Tiler Tiler/Terrazzo ",
+    "specialization": "",
+    "company": "",
+    "location": "Moscow ",
+    "experience": "7years ",
+    "phone": "0543231656"
+  },
+  {
+    "id": 71,
+    "name": "Emmanuel Anane ",
+    "occupation": "Painter",
+    "specialization": "Wood & Metal Spraying services ",
+    "company": "",
+    "location": "Gyenyame ",
+    "experience": "16years",
+    "phone": "0207384398"
+  },
+  {
+    "id": 72,
+    "name": "Abudu Latife",
+    "occupation": "Plumber",
+    "specialization": "General",
+    "company": "",
+    "location": "Haatso Ecomog",
+    "experience": "3years",
+    "phone": "0555639995"
+  },
+  {
+    "id": 73,
+    "name": "Kwesi Isaac Aido",
+    "occupation": "Carpenter",
+    "specialization": "Furniture/Construction",
+    "company": "",
+    "location": "NaNa Krom",
+    "experience": "16years",
+    "phone": "0249630301"
+  },
+  {
+    "id": 74,
+    "name": "Joshua Ntowaa ",
+    "occupation": "Aluminum fabricator",
+    "specialization": "Aluminium fabrication, T&G,Tilling",
+    "company": "Ntowaa Aluminium Systems ",
+    "location": "Ashaley Botwe ",
+    "experience": "20years",
+    "phone": "0241111261"
+  },
+  {
+    "id": 75,
+    "name": "Harry Worg ",
+    "occupation": "Aircondition Installer",
+    "specialization": "Repairs, Installation of Air-condition ",
+    "company": "Worg Air-condition Services ",
+    "location": "Ashaley - Botwe ",
+    "experience": "18years",
+    "phone": "0242686091/0236871432"
+  },
+  {
+    "id": 76,
+    "name": "Felix Tetteh ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Works: Doors, windows, Etc",
+    "company": "",
+    "location": "Nmai -Djor ",
+    "experience": "3years",
+    "phone": "0540796790"
+  },
+  {
+    "id": 77,
+    "name": "Felix Tetteh ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Works: Doors, windows, Etc",
+    "company": "",
+    "location": "Nmai -Djor ",
+    "experience": "3years",
+    "phone": "0540796790"
+  },
+  {
+    "id": 78,
+    "name": "Samuel Amenyogble",
+    "occupation": "Electrician",
+    "specialization": "General",
+    "company": "",
+    "location": "Kasoa",
+    "experience": "16years",
+    "phone": "0244496601"
+  },
+  {
+    "id": 79,
+    "name": "Felix Tetteh ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Works: Doors, windows, Etc",
+    "company": "",
+    "location": "Nmai -Djor ",
+    "experience": "3years",
+    "phone": "0540796790"
+  },
+  {
+    "id": 80,
+    "name": "Francis Kpogo",
+    "occupation": "Welder",
+    "specialization": "",
+    "company": "",
+    "location": "Shanton",
+    "experience": "9years",
+    "phone": "0246740016"
+  },
+  {
+    "id": 81,
+    "name": "Solomon Agyeakum",
+    "occupation": "Mason",
+    "specialization": "Stone Layer",
+    "company": "",
+    "location": "Pokuase",
+    "experience": "20years",
+    "phone": "0202499413"
+  },
+  {
+    "id": 82,
+    "name": "Jerronzy Ltd",
+    "occupation": "Plumber",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman pure water",
+    "experience": ",5years",
+    "phone": "0243007726"
+  },
+  {
+    "id": 83,
+    "name": "Phillip Quansah",
+    "occupation": "Carpenter",
+    "specialization": "Furniture/construction",
+    "company": "",
+    "location": "Ashongman village",
+    "experience": "8years",
+    "phone": "0573246849"
+  },
+  {
+    "id": 84,
+    "name": "Kwame Abeka",
+    "occupation": "Mason",
+    "specialization": "",
+    "company": "",
+    "location": "Anomabo",
+    "experience": "8years",
+    "phone": "0244961964"
+  },
+  {
+    "id": 85,
+    "name": "Peter Kweku",
+    "occupation": "Mason",
+    "specialization": "",
+    "company": "",
+    "location": "Kumasi",
+    "experience": "7years",
+    "phone": "0242984518"
+  },
+  {
+    "id": 86,
+    "name": "Kent Acquah",
+    "occupation": "Welder",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman pure water",
+    "experience": "16years",
+    "phone": "0244141864"
+  },
+  {
+    "id": 87,
+    "name": "Tony Anane",
+    "occupation": "Welder",
+    "specialization": "General",
+    "company": "",
+    "location": "Madina",
+    "experience": "8years",
+    "phone": "0244753190"
+  },
+  {
+    "id": 88,
+    "name": "Frank Osei Antwi",
+    "occupation": "Tiler",
+    "specialization": "General",
+    "company": "",
+    "location": "Agbogba cementery Junction",
+    "experience": "3years",
+    "phone": "0248487779"
+  },
+  {
+    "id": 89,
+    "name": "Alaglo Dela",
+    "occupation": "Mechanic",
+    "specialization": "Welder",
+    "company": "",
+    "location": "School Junction",
+    "experience": "7years",
+    "phone": "054910089/0573925356"
+  },
+  {
+    "id": 90,
+    "name": "Phillip Larnor",
+    "occupation": "Tiler",
+    "specialization": "General",
+    "company": "",
+    "location": "Madina",
+    "experience": "6years",
+    "phone": "0542501039"
+  },
+  {
+    "id": 91,
+    "name": "Kudjo Dorgbefu",
+    "occupation": "Mason",
+    "specialization": "Supervisor/Forman",
+    "company": "",
+    "location": "School junction",
+    "experience": "10years",
+    "phone": "0245624114"
+  },
+  {
+    "id": 92,
+    "name": "Stephen Ayartey",
+    "occupation": "Mechanic",
+    "specialization": "Welder",
+    "company": "",
+    "location": "Nmai Djorn",
+    "experience": ",15year",
+    "phone": "0245217311"
+  },
+  {
+    "id": 93,
+    "name": "James Tetteh",
+    "occupation": "Glass Fabricator",
+    "specialization": "",
+    "company": "",
+    "location": "NaNa Krom",
+    "experience": "4years",
+    "phone": "0024040222"
+  },
+  {
+    "id": 94,
+    "name": "Sulemana Sisu ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Work ",
+    "company": "",
+    "location": "Ashaley Botwe ",
+    "experience": "3years",
+    "phone": "0544271025"
+  },
+  {
+    "id": 95,
+    "name": "Gibrila Denjumah ",
+    "occupation": "Electrician",
+    "specialization": "Auto Electrician ",
+    "company": "",
+    "location": "School Junction -Ashaley Botwe ",
+    "experience": "4years ",
+    "phone": "0273601835/0240549923"
+  },
+  {
+    "id": 96,
+    "name": "Felix Fianu ",
+    "occupation": "Glass Fabricator",
+    "specialization": "General Glass Fabrication services ",
+    "company": "",
+    "location": "Ashaley Botwe ",
+    "experience": "18years",
+    "phone": "0244805027"
+  },
+  {
+    "id": 97,
+    "name": "Abdul Latif ",
+    "occupation": "Glass Fabricator",
+    "specialization": "",
+    "company": "",
+    "location": "Ashaley Botwe ",
+    "experience": "3years ",
+    "phone": "0241732698"
+  },
+  {
+    "id": 98,
+    "name": "Samcofai Ventures ",
+    "occupation": "Glass Fabricator",
+    "specialization": "Glass doors, windows,razor wire fencing, glass partitions,Alubond etc",
+    "company": "",
+    "location": "Adjiringanor ",
+    "experience": "20years",
+    "phone": "0546151599/0302971902"
+  },
+  {
+    "id": 99,
+    "name": "Thomas Habadah",
+    "occupation": "Plumber",
+    "specialization": "General",
+    "company": "",
+    "location": "Pantan village",
+    "experience": "6years",
+    "phone": "O245887866/0507417106"
+  },
+  {
+    "id": 100,
+    "name": "Patrick  ATIdigah",
+    "occupation": "Plumber",
+    "specialization": "",
+    "company": "",
+    "location": "Ho",
+    "experience": "10years",
+    "phone": "0205060708"
+  },
+  {
+    "id": 101,
+    "name": "Paa Nii",
+    "occupation": "Carpenter",
+    "specialization": "Wood work",
+    "company": "",
+    "location": "Agbogba cosway down",
+    "experience": "10years",
+    "phone": "0244965042"
+  },
+  {
+    "id": 102,
+    "name": "Korley",
+    "occupation": "Carpenter",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Ecomog",
+    "experience": "30years",
+    "phone": "0244243196"
+  },
+  {
+    "id": 103,
+    "name": "Kennedy Fekby",
+    "occupation": "Electrician",
+    "specialization": "General",
+    "company": "",
+    "location": "Amasaman",
+    "experience": "15years",
+    "phone": "0276030331"
+  },
+  {
+    "id": 104,
+    "name": "Akwesi Agbojebo",
+    "occupation": "Painter",
+    "specialization": "",
+    "company": "",
+    "location": "Haatso",
+    "experience": "4years",
+    "phone": "0265492894/0544018465"
+  },
+  {
+    "id": 105,
+    "name": "Mark Adjei",
+    "occupation": "Electrician",
+    "specialization": "General Household wiring",
+    "company": "",
+    "location": "Adenta Barrier ",
+    "experience": "25years",
+    "phone": "0245078222"
+  },
+  {
+    "id": 106,
+    "name": "Anthony Bentile",
+    "occupation": "Tiler",
+    "specialization": "",
+    "company": "",
+    "location": "Dome",
+    "experience": "7years",
+    "phone": "0541423991"
+  },
+  {
+    "id": 107,
+    "name": "Kwamera Automobile Services",
+    "occupation": "Mechanic",
+    "specialization": "Engine servicing, straigthening, Welding, Diagnostic services, General Vehicle safety services ",
+    "company": "",
+    "location": "New Nmai - Djor ",
+    "experience": "10yrd",
+    "phone": "0273575797/0244575221"
+  },
+  {
+    "id": 108,
+    "name": "Lawrence Ali",
+    "occupation": "Tiler",
+    "specialization": "",
+    "company": "",
+    "location": "Dome",
+    "experience": "7years",
+    "phone": "0542584834"
+  },
+  {
+    "id": 109,
+    "name": "Rocket Services Limited",
+    "occupation": "Building Technicians",
+    "specialization": "Plumbing, Glass Fab., Painting, P.O.P Designing ",
+    "company": "",
+    "location": "ARS - Ashaley Botwe",
+    "experience": "10years",
+    "phone": "0244459263"
+  },
+  {
+    "id": 110,
+    "name": "Godwin Sapei",
+    "occupation": "Mason",
+    "specialization": "",
+    "company": "",
+    "location": "Ashongman",
+    "experience": "5years",
+    "phone": "0544531167"
+  },
+  {
+    "id": 111,
+    "name": "Rocket Services Limited",
+    "occupation": "Building Technicians",
+    "specialization": "Plumbing, Glass Fab., Painting, P.O.P Designing ",
+    "company": "",
+    "location": "ARS - Ashaley Botwe",
+    "experience": "10years",
+    "phone": "0244459263"
+  },
+  {
+    "id": 112,
+    "name": "F.k James",
+    "occupation": "Mason",
+    "specialization": "Construction",
+    "company": "",
+    "location": "Ashongman",
+    "experience": "15years",
+    "phone": "0245949253"
+  },
+  {
+    "id": 113,
+    "name": "Peter Sedoh",
+    "occupation": "Electrician",
+    "specialization": "General",
+    "company": "",
+    "location": "Lccc Weija",
+    "experience": "10years",
+    "phone": "0246674330"
+  },
+  {
+    "id": 114,
+    "name": "Bright Osei",
+    "occupation": "Welder",
+    "specialization": "General",
+    "company": "",
+    "location": "Ashongman  Pure  water",
+    "experience": "12years",
+    "phone": "0248636642"
+  },
+  {
+    "id": 115,
+    "name": "Denali Furniture & Construction ",
+    "occupation": "Building Technicians",
+    "specialization": "Furniture work and Construction services",
+    "company": "",
+    "location": "Ashaley Botwe",
+    "experience": "7years",
+    "phone": "0277476549/0248402221"
+  },
+  {
+    "id": 116,
+    "name": "Design kings ",
+    "occupation": "Painter",
+    "specialization": "Household wiring ",
+    "company": "",
+    "location": "Ashaley botwe",
+    "experience": "5years",
+    "phone": "0546302690"
+  },
+  {
+    "id": 117,
+    "name": "Oko vanderpui",
+    "occupation": "Mechanic",
+    "specialization": "Spring specialist",
+    "company": "",
+    "location": "Ashongman Aloway",
+    "experience": "8years",
+    "phone": "0560875729/0232156988"
+  },
+  {
+    "id": 118,
+    "name": "Edmund Tettey",
+    "occupation": "Welder",
+    "specialization": "Metal Fabricator",
+    "company": "",
+    "location": "Old Ashongman",
+    "experience": "12years",
+    "phone": "0243769679/0268694414"
+  },
+  {
+    "id": 119,
+    "name": "Edmund Tettey",
+    "occupation": "Welder",
+    "specialization": "Metal Fabricator",
+    "company": "",
+    "location": "Old Ashongman",
+    "experience": "12years",
+    "phone": "0243769679/0268694414"
+  },
+  {
+    "id": 120,
+    "name": "Patrick Omanie",
+    "occupation": "Glass Fabricator",
+    "specialization": "",
+    "company": "Glass City ",
+    "location": "Nmai Djor",
+    "experience": "6years",
+    "phone": "0275726311"
+  },
+  {
+    "id": 121,
+    "name": "Diamond Initiative",
+    "occupation": "Business",
+    "specialization": "MTN/TIGO/AITEL",
+    "company": "Mobile money Services",
+    "location": "American House",
+    "experience": "8years",
+    "phone": "0248986097/0244981996"
+  },
+  {
+    "id": 122,
+    "name": "Wisdom Gadikor ",
+    "occupation": "Carpenter",
+    "specialization": "General ",
+    "company": "",
+    "location": "Nmai Djor ",
+    "experience": "6years",
+    "phone": "0246104383"
+  },
+  {
+    "id": 123,
+    "name": "Amen Ezian ",
+    "occupation": "Tiler",
+    "specialization": "",
+    "company": "",
+    "location": "Pokuasi ",
+    "experience": "3years ",
+    "phone": "0548508632"
+  },
+  {
+    "id": 124,
+    "name": "Nyansa Horticulture ",
+    "occupation": "Florist ",
+    "specialization": "Land scaping, lawn mowing, Gardening ",
+    "company": "",
+    "location": "Adjiringanor ",
+    "experience": "10years ",
+    "phone": "0546975034/0237452735"
+  },
+  {
+    "id": 125,
+    "name": "Evans Narh ",
+    "occupation": "Mechanic",
+    "specialization": "General",
+    "company": "",
+    "location": "Lakeside Estate ",
+    "experience": "6years",
+    "phone": "0241066035"
+  },
+  {
+    "id": 126,
+    "name": "Felix Kofi Selormey ",
+    "occupation": "Mechanic",
+    "specialization": "Japan cars, General mechanic services ",
+    "company": "Felix Kofi Auto Engineering ",
+    "location": "East legon - ARS",
+    "experience": "25years",
+    "phone": "0244698129/0201259898"
+  },
+  {
+    "id": 127,
+    "name": "Bernard Akrong Mensah ",
+    "occupation": "Electrician",
+    "specialization": "Electrical Engineering ",
+    "company": "",
+    "location": "Madina ",
+    "experience": "20years",
+    "phone": "0244107160/0266253537"
+  },
+  {
+    "id": 128,
+    "name": "DIVACOM VENTURES ",
+    "occupation": "Mobile Money vendors",
+    "specialization": "MTN, Tigo, Vodafone , Airtel services ",
+    "company": "",
+    "location": "East Legon",
+    "experience": "1years",
+    "phone": "0244558844/0208675135"
+  }
+
+]
